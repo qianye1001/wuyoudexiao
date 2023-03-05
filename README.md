@@ -1,4 +1,13 @@
-### Hi there 👋
+## Blog 👋
+> Weclome to my Blog : [My Blog](wuyoudexiao.github.io)
+> 
+> The blog contains **learning records**, **technical sharing** and other content.
+> 
+Examples：
+- [CAS Login](https://wuyoudexiao.github.io/p/study-cas/)
+## About me 🤔
+Language: Golang > Java > Python
+
 📫 How to reach me: star949696@gamil.com
 <!--
 **wuyoudexiao/wuyoudexiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
